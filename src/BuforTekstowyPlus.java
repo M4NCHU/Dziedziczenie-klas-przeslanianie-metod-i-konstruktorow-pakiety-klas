@@ -1,4 +1,4 @@
-import packageplus.*;
+import packageplus.BuforTekstowy;
 
 public class BuforTekstowyPlus extends BuforTekstowy {
 
